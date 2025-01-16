@@ -1,5 +1,7 @@
 # Brownian Motion Simulator
 
+![Program screenshot](screenshot.png)
+
 To compile, first install Go, open terminal, go to the folder with this repository files and run:
 ```
 go mod tidy
